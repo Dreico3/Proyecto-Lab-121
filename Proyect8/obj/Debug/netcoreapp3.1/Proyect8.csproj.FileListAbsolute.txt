@@ -1,0 +1,13 @@
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.exe
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.deps.json
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.runtimeconfig.json
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.runtimeconfig.dev.json
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.dll
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\bin\Debug\netcoreapp3.1\Proyect8.pdb
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.csprojAssemblyReference.cache
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.AssemblyInfoInputs.cache
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.AssemblyInfo.cs
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.dll
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.pdb
+C:\Users\Stoya\source\repos\Proyect8\Proyect8\obj\Debug\netcoreapp3.1\Proyect8.genruntimeconfig.cache
